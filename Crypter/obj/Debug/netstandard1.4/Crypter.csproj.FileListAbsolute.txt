@@ -1,0 +1,7 @@
+c:\users\hp\documents\visual studio 2017\Projects\WebApplication4\Crypter\bin\Debug\netstandard1.4\Crypter.deps.json
+c:\users\hp\documents\visual studio 2017\Projects\WebApplication4\Crypter\bin\Debug\netstandard1.4\Crypter.dll
+c:\users\hp\documents\visual studio 2017\Projects\WebApplication4\Crypter\bin\Debug\netstandard1.4\Crypter.pdb
+c:\users\hp\documents\visual studio 2017\Projects\WebApplication4\Crypter\obj\Debug\netstandard1.4\Crypter.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\WebApplication4\Crypter\obj\Debug\netstandard1.4\Crypter.AssemblyInfo.cs
+c:\users\hp\documents\visual studio 2017\Projects\WebApplication4\Crypter\obj\Debug\netstandard1.4\Crypter.dll
+c:\users\hp\documents\visual studio 2017\Projects\WebApplication4\Crypter\obj\Debug\netstandard1.4\Crypter.pdb
